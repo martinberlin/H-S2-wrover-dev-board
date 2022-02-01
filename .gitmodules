@@ -1,0 +1,6 @@
+[submodule "components/esp32-wrover-kicad"]
+	path = components/esp32-wrover-kicad
+	url = https://github.com/aliafshar/esp32-wrover-kicad.git
+[submodule "components/tp4056"]
+	path = components/tp4056
+	url = https://github.com/alltheworld/tp4056.git

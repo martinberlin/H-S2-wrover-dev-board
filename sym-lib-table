@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "esp32-wrover")(type "Legacy")(uri "${KIPRJMOD}/components/esp32-wrover-kicad/esp32-wrover.lib")(options "")(descr ""))
+  (lib (name "tp4056")(type "Legacy")(uri "${KIPRJMOD}/components/tp4056/lib/tp4056.lib")(options "")(descr ""))
+)
