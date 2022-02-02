@@ -1,4 +1,5 @@
 (fp_lib_table
   (lib (name "TP4056")(type "KiCad")(uri "${KIPRJMOD}/components/tp4056/lib")(options "")(descr ""))
   (lib (name "footprint")(type "KiCad")(uri "${KIPRJMOD}/components/footprint")(options "")(descr ""))
+  (lib (name "epaper-breakout")(type "KiCad")(uri "${KIPRJMOD}/components/epaper-breakout.pretty")(options "")(descr ""))
 )
