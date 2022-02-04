@@ -33,7 +33,6 @@
       3,
       4,
       5,
-      6,
       8,
       9,
       10,
@@ -53,19 +52,21 @@
       24,
       25,
       26,
+      27,
+      28,
+      29,
+      30,
       32,
       33,
       34,
       35,
-      36,
-      37,
-      38
+      36
     ],
-    "visible_layers": "fffffff_7fffffff",
+    "visible_layers": "fffffdf_ffffffff",
     "zone_display_mode": 0
   },
   "meta": {
-    "filename": "S2-Wrover-dev-pcb.kicad_prl",
+    "filename": "S2.1-Wrover-dev-pcb.kicad_prl",
     "version": 3
   },
   "project": {
