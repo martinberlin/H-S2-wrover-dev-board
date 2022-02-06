@@ -2,7 +2,5 @@
   (lib (name "tp4056")(type "Legacy")(uri "${KIPRJMOD}/components/tp4056/lib/tp4056.lib")(options "")(descr ""))
   (lib (name "epd_breakout")(type "Legacy")(uri "${KIPRJMOD}/components/epd_breakout.lib")(options "")(descr ""))
   (lib (name "TPS65185")(type "Legacy")(uri "${KIPRJMOD}/components/TPS651851RSLR.lib")(options "")(descr ""))
-  (lib (name "TPS651851RSLR")(type "Legacy")(uri "/home/martin/Documents/kicad/reference/epdiy-breakout/TPS651851RSLR.lib")(options "")(descr ""))
-  (lib (name "ed060sc4")(type "Legacy")(uri "/home/martin/Documents/kicad/reference/epdiy-breakout/ed060sc4.lib")(options "")(descr ""))
-  (lib (name "esp32-wrover")(type "Legacy")(uri "/home/martin/Documents/kicad/reference/epdiy-breakout/esp32-wrover.lib")(options "")(descr ""))
+  (lib (name "ed060sc4")(type "Legacy")(uri "/home/martin/Documents/kicad/reference/epdiy-breakout/ed060sc4.lib")(options "")(descr "")(disabled))
 )
