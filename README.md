@@ -15,11 +15,12 @@ The minimun requirements are:
 - No Serial-to-UART. Only dfu USB, please check this [blog post from Espressif](https://blog.espressif.com/dfu-using-the-native-usb-on-esp32-s2-for-flashing-the-firmware-b2c4af3335f1)
 
 
-## EPDiy S2 parallel epaper controller (8 data lines Kindle like einks)
+## EPDiy S2 parallel epaper controller
 
-EPDiy S2 an experimental project, on a very early stage, still untested:
+EPDiy S2 an experimental project for 8 data lines Kindle like einks, on a very early stage, still untested:
 
 ![EPDiy preview](components/imgs/S2.epdiy_v1-pcb.jpg)
 
-This is based on original [epdiy V6 PCB](https://github.com/vroland/epdiy/tree/master/hardware/epaper-breakout) a project by @vroland.
+This is based on original [epdiy V6 PCB](https://github.com/vroland/epdiy/tree/master/hardware/epaper-breakout) a project by @vroland. What is changed in this version is that it does not use PCA9555 port expander and also takes profit of the S2 feature of direct firmware updates using the USB port. 
+
 Still a work in progress, no Gerbers, no pick-place and no production files at all. It needs testing before everything can be published.
