@@ -2990,7 +2990,7 @@
     (stroke (width 0) (type default) (color 0 0 0 0))
     (uuid 6b33a4be-43e3-497f-94c1-bd93ebe52e7a)
   )
-  (wire (pts (xy 234.95 66.04) (xy 234.95 64.77))
+  (wire (pts (xy 234.95 63.5) (xy 234.95 66.04))
     (stroke (width 0) (type default) (color 0 0 0 0))
     (uuid 6bb60ebb-cdf0-46c7-bec0-0c57b6b5c96d)
   )
