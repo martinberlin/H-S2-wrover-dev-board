@@ -1,3 +1,0 @@
-(sym_lib_table
-  (lib (name "TPS65185RGZR")(type "Legacy")(uri "${KIPRJMOD}/../components/TPS65185RGZR.lib")(options "")(descr ""))
-)
