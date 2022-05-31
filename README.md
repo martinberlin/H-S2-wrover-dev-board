@@ -1,6 +1,7 @@
 ## An open source S2-WROVER board with minimun components and DFU USB
 
-H stands for Hardware.
+H stands for Hardware. **IMPORTANT NOTE: Please do not intend to build this PCB. **
+It was my first EPDiy like controller and has a lot of newbie defects. Including selecting no REAL TIME pins from the IO MUX to use as Clock and Start pulse for I2S. As is won't work, and in the next months, I won't have time to play with electronics.
 
 ![PCB preview](https://raw.githubusercontent.com/martinberlin/H-S2-wrover-dev-board/v1/components/imgs/S2-Wrover-dev-pcb.jpg)
 Initial dimensions:
