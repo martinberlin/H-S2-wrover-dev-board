@@ -5218,7 +5218,7 @@
   (gr_text "IO45" (at 131.3 73.63 90) (layer "F.SilkS") (tstamp f2e13602-7e82-4f20-9e0b-3711f26381d3)
     (effects (font (size 0.8 0.8) (thickness 0.15)))
   )
-  (gr_text "IO07" (at 126.179 73.58 90) (layer "F.SilkS") (tstamp f567f1fc-dd94-4f6f-9b83-0a5e82cf8c4e)
+  (gr_text "IO42" (at 126.179 73.58 90) (layer "F.SilkS") (tstamp f567f1fc-dd94-4f6f-9b83-0a5e82cf8c4e)
     (effects (font (size 0.8 0.8) (thickness 0.15)))
   )
   (gr_text "RX" (at 105.97 82.824762 90) (layer "F.SilkS") (tstamp fa860141-eee5-4aef-bca2-3713da9d2c05)
